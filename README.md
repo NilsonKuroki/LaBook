@@ -14,7 +14,7 @@ Esse foi um projeto de Backend feito em grupo(4 integrantes), utilizamos a idéi
 
 ## Instruções para rodar
 1. `npm install` para instalar todas as dependências, rode este comando na pasta raiz do projeto através do terminal de comando;
-2. `npm run start` para rodar localmente o projeto, rode este comando na pasta raiz do projeto através do terminal de comando;
+2. `npm run start` para rodar localmente o projeto, rode este comando na pasta raiz do projeto através do terminal de comando(a porta usada estará no terminal de comando);
 3. Para que possa visualizar as requisições acontecendo, o interessante é usar algum aplicativo que possa bater nos endpoints e ver o retorno da aplicação, um exemplo é o postman que é uma plataforma de colaboração d desenvolvimento de API's;
 
 ## Contato
